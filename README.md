@@ -39,6 +39,7 @@ web01 (Control Node)
 web02 (Amazon Linux)
 web03 (Ubuntu)
 ```
+![Architecture_diagram](architecture/architecture.png)
 
 ---
 
