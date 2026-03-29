@@ -1,4 +1,4 @@
-# Bash Multi-Node Web Deployment Automation
+# 🚀 Bash Multi-Node Web Deployment Automation
 
 This project demonstrates **real-world DevOps automation using Bash scripting** to deploy a web application across multiple Linux servers using **SSH key-based authentication and non-interactive privilege escalation**.
 
@@ -69,7 +69,7 @@ No passwords, no manual intervention.
 ## ▶️ Usage
 
 ### Step 1: Clone Repository
-```bash
+```
 git clone https://github.com/josephmj0303/bash-multi-node-web-deployment.git
 cd bash-multi-node-web-deployment
 ```
@@ -90,54 +90,38 @@ chmod +x scripts/webdeploy.sh
 ./scripts/webdeploy.sh
 ```
 ---
-🔐 Security Model
+## 🔐 Security Model
 
 * Root SSH login disabled
-
 * Password authentication disabled
-
 * Non-root user (devops) used for automation
-
 * Passwordless sudo limited to automation tasks
-
 * This aligns with production security best practices.
 ---
-🧠 DevOps Concepts Demonstrated
+## 🧠 DevOps Concepts Demonstrated
 
 * Non-interactive automation
-
 * Privilege escalation handling
-
 * Cross-OS compatibility
-
 * Infrastructure consistency
-
 * Idempotent deployment logic
-
 * CI/CD-style execution model
 ---
-📈 Improvements Roadmap
+## 📈 Improvements Roadmap
 
 * Convert to Ansible playbook
-
 * Parallel execution
-
 * Logging and rollback support
-
 * Load balancer integration
-
 * CI pipeline integration
 ---
-📌 Why This Project Matters
+## 📌 Why This Project Matters
 
 This project replicates how real deployment pipelines work using foundational tools before introducing configuration management platforms.
 
 It demonstrates:
 
 * Strong Linux fundamentals
-
 * Bash automation skills
-
 * SSH and sudo mastery
-
 * Production-oriented thinking
