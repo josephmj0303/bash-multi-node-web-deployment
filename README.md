@@ -1,4 +1,10 @@
 # 🚀 Bash Multi-Node Web Deployment Automation
+![Bash](https://img.shields.io/badge/Bash-Scripting-black?logo=gnu-bash)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?logo=ubuntu)
+![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?logo=nginx)
+![Deployment](https://img.shields.io/badge/Deployment-Automated-blue)
+![Multi-Node](https://img.shields.io/badge/Architecture-Multi--Node-orange)
+
 
 This project demonstrates **real-world DevOps automation using Bash scripting** to deploy a web application across multiple Linux servers using **SSH key-based authentication and non-interactive privilege escalation**.
 
